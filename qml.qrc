@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/tcpServer.png</file>
+        <file>images/tcpClient.png</file>
+        <file>images/tcpClient_j.png</file>
+        <file>images/tcpServer_j.png</file>
+        <file>param/data.js</file>
+        <file>NewConn.qml</file>
+        <file>images/background.png</file>
+        <file>WareHouse.qml</file>
+        <file>images/udpClient.png</file>
+        <file>images/udpClient_j.png</file>
+        <file>images/udpServer.png</file>
+        <file>images/udpServer_j.png</file>
+        <file>OptionsBar.qml</file>
+        <file>UnitBlock.qml</file>
+        <file>StateWin.qml</file>
+        <file>Transceiver.qml</file>
+        <file>Input.qml</file>
+        <file>ConnBtnbox.qml</file>
+        <file>param/operation.js</file>
+        <file>images/start.png</file>
+        <file>images/stop.png</file>
+        <file>images/change.png</file>
+        <file>PropertyWin.qml</file>
+        <file>PropertyInput.qml</file>
+    </qresource>
+</RCC>
